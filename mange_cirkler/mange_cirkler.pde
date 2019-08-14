@@ -7,3 +7,4 @@ void draw() {
 }
 //dillermand
 //rigtig stor dillermand
+//Theo har lavet en opgave om voldtægt
